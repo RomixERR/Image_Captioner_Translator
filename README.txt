@@ -1,5 +1,5 @@
 An intuitive GUI tool for effortless dataset image captioning (batch or one-by-one) and translation. Seamlessly integrates with your standalone LLM server.
-To run the application, you will need a virtual environment with Python 3.12.10 and pip install gradio installed inside it. You also need to launch an LLM server, such as llama.cpp (llama-server.exe or any other), without reasoning.
+To run the application, you will need a virtual environment with Python 3.12.10 and pip install gradio installed inside it. You also need to launch an LLM server, such as llama.cpp (llama-server.exe or any other OpenAI: /v1/chat/completions), without reasoning.
 
 
 TextImageGradioApp4 - приложение редактирования.
@@ -20,4 +20,4 @@ translate_one_text.py - перевести один текст в testEn (мож
 текст ошибки виден в поле «Журнал скриптов».
 
 
-Для запуска потребуется виртуальная среда, Python 3.12.10 и в виртуальной среде pip install Gradio, Запустить сервер с LLM моделью, llama.cpp llama-server.exe (или любой другой) без резонинга.
+Для запуска потребуется виртуальная среда, Python 3.12.10 и в виртуальной среде pip install Gradio, Запустить сервер с LLM моделью, llama.cpp llama-server.exe (или любой другой OpenAI: /v1/chat/completions) без резонинга.
