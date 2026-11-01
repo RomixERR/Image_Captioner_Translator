@@ -10,7 +10,6 @@ Rules:
 - Keep the original paragraph structure where practical.
 - Use natural English suitable for image captions and LoRA training.
 - Do not explain your choices or add commentary.
-- Accurately specify sexual positions, if applicable. Use appropriate terms for sexual organs—such as "dick", "pussy", "cock", "vagina", "penis", "labia" — when translating.
 - Ensure accurate translation of all details related to skin, lighting, and skin sheen.
 - Do not include the original Russian text in the result.
 
